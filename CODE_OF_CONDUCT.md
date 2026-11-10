@@ -28,3 +28,13 @@ Examples of unacceptable behavior include:
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or email address, without their
+  explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
+
+### A note specific to this project
+
+GitStart exists for people making their first ever contribution. Condescension toward
+beginners — however technically correct — is unacceptable behavior here. If someone's pull
+request is wrong, the useful response is to explain what to change. "Read the instructions"
+is not that.
+
